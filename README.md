@@ -37,13 +37,13 @@ A simple setup script for fresh CachyOS installations.
 Download and execute directly:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cachyos-setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Z3R0-CDS/cachy-zerox/main/cachyos-setup.sh)
 ```
 
 Or with wget:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cachyos-setup.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Z3R0-CDS/cachy-zerox/main/cachyos-setup.sh)
 ```
 
 ## What the Script Does
@@ -61,7 +61,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cach
 Review the script before executing it:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cachyos-setup.sh
+curl -fsSL https://raw.githubusercontent.com/Z3R0-CDS/cachy-zerox/main/cachyos-setup.sh
 ```
 
 Run scripts from the internet only if you trust the source.
